@@ -1,0 +1,30 @@
+[
+  {
+    "model": 2018,
+    "id": "cadwell",
+    "imageUrl": "img/motos/cadwell_1.jpg",
+    "name": "AJS Cadwell 125",
+    "snippet": "La AJS Cadwell 125 nace para recuperar las motos diseñadas para divertir y excitar a quienes las llevan, recuperando el espíritu de los años 50 y 60."
+  },
+  {
+    "model": 2018,
+    "id": "bmw",
+    "imageUrl": "img/motos/bmw_1.jpg",
+    "name": "BMW G310R 2018",
+    "snippet": "La G310R es la gran apuesta de BMW diseñada para conquistar nuevos clientes, un perfil de motorista joven que se acaba de sacar el carnet y quiere disfrutar de una BMW a un precio asequible."
+  },
+  {
+    "model": 2017,
+    "id": "ducati",
+    "imageUrl": "img/motos/ducati_1.jpg",
+    "name": "DUCATI 2017",
+    "snippet": "La 2017 es la gran apuesta de DUCATI diseñada para conquistar nuevos clientes, un perfil de motorista joven que se acaba de sacar el carnet y quiere disfrutar de una BMW a un precio asequible."
+  },
+  {
+    "model": 2016,
+    "id": "kawasaki",
+    "imageUrl": "img/motos/kawasaki_1.jpg",
+    "name": "KAWASAKI 2016",
+    "snippet": "La 2016 es la gran apuesta de KAWASAKI diseñada para conquistar nuevos clientes, un perfil de motorista joven que se acaba de sacar el carnet y quiere disfrutar de una BMW a un precio asequible."
+  }
+]
